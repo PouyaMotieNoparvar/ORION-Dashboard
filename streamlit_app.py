@@ -21,6 +21,14 @@ st.markdown("""
         color: #00d4ff;
         font-family: 'Inter', sans-serif;
     }
+    /* Dynamic table text color based on theme */
+    [data-testid="stTable"] table {
+        color: #e0e0e0 !important;
+    }
+    [data-testid="stTable"] th, [data-testid="stTable"] td {
+        color: #e0e0e0 !important;
+        border-bottom: 1px solid #333;
+    }
     </style>
 """, unsafe_allow_html=True)
 
@@ -308,17 +316,9 @@ def main():
         scheme='turbo'
     )
 
-    # Custom CSS for table legibility and full-width charts
+    # Ensure the main container uses all available space
     st.markdown("""
         <style>
-        /* Force table text to be white for readability in dark mode */
-        [data-testid="stTable"] table {
-            color: white !important;
-        }
-        [data-testid="stTable"] th, [data-testid="stTable"] td {
-            color: white !important;
-        }
-        /* Ensure the main container uses all available space */
         .main .block-container {
             max-width: 95% !important;
             padding-top: 1rem;
