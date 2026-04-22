@@ -1,0 +1,92 @@
+{
+  "aethionema_arabicum_precursor": {
+    "internal_stops": 0,
+    "frameshift": false,
+    "best_orf_aa": 41,
+    "fickett_heuristic": 1.0748722350090105
+  },
+  "arabidopsis_halleri_ortholog": {
+    "internal_stops": 0,
+    "frameshift": false,
+    "best_orf_aa": 31,
+    "fickett_heuristic": 1.3712987956810632
+  },
+  "arabidopsis_lyrata_ortholog": {
+    "internal_stops": 0,
+    "frameshift": true,
+    "best_orf_aa": 45,
+    "fickett_heuristic": 1.3237820512820515
+  },
+  "arabis_alpina_precursor": {
+    "internal_stops": 0,
+    "frameshift": true,
+    "best_orf_aa": 14,
+    "fickett_heuristic": 1.527450980392157
+  },
+  "boechera_stricta_ortholog": {
+    "internal_stops": 0,
+    "frameshift": true,
+    "best_orf_aa": 63,
+    "fickett_heuristic": 1.1702107662304095
+  },
+  "brassica_napus_ortholog": {
+    "internal_stops": 0,
+    "frameshift": true,
+    "best_orf_aa": 57,
+    "fickett_heuristic": 1.199544133192389
+  },
+  "brassica_rapa_precursor": {
+    "internal_stops": 0,
+    "frameshift": true,
+    "best_orf_aa": 60,
+    "fickett_heuristic": 1.3703662597114319
+  },
+  "camelina_sativa_ortholog": {
+    "internal_stops": 0,
+    "frameshift": false,
+    "best_orf_aa": 45,
+    "fickett_heuristic": 1.448755411255411
+  },
+  "capsella_rubella_ortholog": {
+    "internal_stops": 0,
+    "frameshift": false,
+    "best_orf_aa": 45,
+    "fickett_heuristic": 1.4436965811965812
+  },
+  "cardamine_hirsuta_precursor": {
+    "internal_stops": 0,
+    "frameshift": true,
+    "best_orf_aa": 26,
+    "fickett_heuristic": 1.7506734006734006
+  },
+  "eutrema_salsugineum_ortholog": {
+    "internal_stops": 0,
+    "frameshift": true,
+    "best_orf_aa": 64,
+    "fickett_heuristic": 1.5890603085553998
+  },
+  "leavenworthia_alabamica_precursor": {
+    "internal_stops": 0,
+    "frameshift": true,
+    "best_orf_aa": 0,
+    "fickett_heuristic": 0.0
+  },
+  "sisymbrium_irio_ortholog": {
+    "internal_stops": 0,
+    "frameshift": false,
+    "best_orf_aa": 14,
+    "fickett_heuristic": 1.2596827852289265
+  },
+  "thlaspi_arvense_ortholog": {
+    "internal_stops": 0,
+    "frameshift": true,
+    "best_orf_aa": 34,
+    "fickett_heuristic": 1.7938268049155144
+  },
+  "arabidopsis_thaliana_ortholog": {
+    "internal_stops": 0,
+    "frameshift": false,
+    "best_orf_aa": 43,
+    "fickett_heuristic": 1.1664876303191671
+  }
+}

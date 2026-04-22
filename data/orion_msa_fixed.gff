@@ -1,0 +1,6 @@
+##gff-version 3
+arabidopsis_thaliana_ortholog	ORION	CDS	3011	3077	.	-	.	ID=cds_ath_1
+arabidopsis_thaliana_ortholog	ORION	CDS	3371	3640	.	-	.	ID=cds_ath_2
+arabidopsis_thaliana_ortholog	ORION	CDS	3855	3900	.	-	.	ID=cds_ath_3
+# (Revised coordinates: Exon 3 in Forward is Exon 1 in Reverse)
+# Note: I'll use strand '-' to be biologically accurate, but my code handles the flip.
